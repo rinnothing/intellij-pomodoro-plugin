@@ -4,6 +4,11 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
+## intellij-pomodoro-plugin
+Рыжевнин Максим 409477
+
+Этот плагин добавляет Tool Window с таймером. Для таймера можно выбирать разное время срабатывания. После срабатывания появляется Popup. Также плагин записывает сколько времени было проведено в каждом файле во время работы таймера (вывода пока нет).
+
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
 - [ ] Get familiar with the [template documentation][template].
